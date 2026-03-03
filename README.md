@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Gabriel 👋
 
-<!--
-**Gabriel-Vallejo/Gabriel-Vallejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de Ingeniería Informática en la USAL
+Me apasiona la intersección entre el desarrollo de software y la optimización de procesos. Mi enfoque actual es ayudar a empresas a escalar mediante **automatización inteligente**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mi Stack Tecnológico
+
+- **Lenguajes de Programación:** C, Verilog, Ensamblador (x86), JavaScript (n8n).
+- **Automatización & IA:** n8n (Self-hosted), OpenAI API, LangChain.
+- **Infraestructura:** Docker, VPS Management (Hostinger), Linux (Ubuntu/Debian).
+
+---
+
+## 🚀 Proyectos de Automatización
+- **[Nombre del Proyecto 1]:** Flujo de n8n para [problema que resuelves].
+- **[Nombre del Proyecto 2]:** Integración de IA para [sector específico].
+
+---
+
+## 📫 Contacto
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-vallejo-garcía-6a3b823b4/)
+- 🌐 [Tu Web en GitHub Pages](https://github.com/Gabriel-Vallejo)
+- 📩 gabrivallejopro@gmail.com
