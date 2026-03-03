@@ -13,9 +13,10 @@ Me apasiona la intersección entre el desarrollo de software y la optimización 
 
 ---
 
-## 🚀 Proyectos de Automatización
-- **[Nombre del Proyecto 1]:** Flujo de n8n para [problema que resuelves].
-- **[Nombre del Proyecto 2]:** Integración de IA para [sector específico].
+### 🚀 En el laboratorio actualmente:
+- **[En desarrollo]** Sistema de automatización de facturas mediante OCR e Inteligencia Artificial.
+- **[En desarrollo]** Dashboard de control para servicios de mantenimiento en n8n.
+- **[Explorando]** Integración de agentes autónomos para atención al cliente por WhatsApp.
 
 ---
 
