@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="URL_DE_TU_NUEVO_BANNER.png" alt="Banner Gabriel Vallejo" width="100%" />
+  <img src="banner.png" alt="Banner Gabriel Vallejo" width="100%" />
 </div>
-
-<br/>
-
-
 
 <br/>
 
