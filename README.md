@@ -26,8 +26,8 @@
 ### ◆ Escuchar
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=tk66pigio9j0c5laq4tp64cpr&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tk66pigio9j0c5laq4tp64cpr&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=tk66pigio9j0c5laq4tp64cpr&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tk66pigio9j0c5laq4tp64cpr&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify" />
   </a>
 </div>
 
