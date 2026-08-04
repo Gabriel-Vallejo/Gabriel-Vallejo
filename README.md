@@ -1,7 +1,9 @@
 <div align="center">
-  <!-- Banner provisional. Sube tu propia imagen al repositorio y cambia este link cuando la tengas. -->
-  <img src="https://placehold.co/800x200/4a3b32/ffffff.png?text=Gabriel+Vallejo" alt="Banner Gabriel Vallejo" width="100%" />
+  <img src="URL_DE_TU_NUEVO_BANNER.png" alt="Banner Gabriel Vallejo" width="100%" />
 </div>
+
+<br/>
+
 
 
 <br/>
