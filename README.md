@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- Aquí puedes subir tu propia imagen al repositorio y cambiar este link. Un banner con estética marrón vintage le daría un toque brutal. -->
-  <img src="https://via.placeholder.com/800x200/4a3b32/ffffff?text=Gabriel+Vallejo" alt="Banner Gabriel Vallejo" width="100%" />
+  <!-- Banner provisional. Sube tu propia imagen al repositorio y cambia este link cuando la tengas. -->
+  <img src="https://placehold.co/800x200/4a3b32/ffffff.png?text=Gabriel+Vallejo" alt="Banner Gabriel Vallejo" width="100%" />
 </div>
+
 
 <br/>
 
