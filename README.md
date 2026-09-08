@@ -18,6 +18,7 @@
   <a href="https://www.linkedin.com/in/gabriel-vallejo-garcía-6a3b823b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gabrivallejopro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://gabriel-vallejo.github.io"><img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" /></a>
+  <a href="CV_Gabriel_Vallejo.pdf"><img src="https://img.shields.io/badge/Descargar_CV-2EA043?style=for-the-badge&logo=files&logoColor=white" alt="Descargar CV" /></a>
 </div>
 
 <br/>
