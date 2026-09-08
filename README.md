@@ -36,7 +36,7 @@
 
 <div align="center">
   <h4>— Lenguajes de Programación —</h4>
-  <img src="https://skillicons.dev/icons?i=c,js" alt="C y JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c,js,python" alt="C, JavaScript y Python" />
   <br>
   <img src="https://img.shields.io/badge/Verilog-2C2255?style=for-the-badge&logo=fpga&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/Ensamblador_(x86)-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="Ensamblador" />
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/n8n_(Self--hosted)-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </div>
 
 <div align="center">
@@ -64,6 +65,7 @@
 
 | 🚀 Proyecto | 🛠️ Estado |
 | :--- | :---: |
+| [**Clasificador Oncológico ML** (SVM & Redes Neuronales)](https://github.com/Gabriel-Vallejo/breast-cancer-ml-classifier) | `[Completado]` |
 | **Sistema de automatización de facturas** (OCR + IA) | `[En desarrollo]` |
 | **Dashboard de control para servicios de mantenimiento** (n8n) | `[En desarrollo]` |
 | **Agentes autónomos para atención al cliente** (WhatsApp) | `[Explorando]` |
