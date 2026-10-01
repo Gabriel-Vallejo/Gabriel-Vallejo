@@ -107,8 +107,6 @@
 | **Dashboard para servicios de mantenimiento** | n8n · Docker | `[Operativo]` |
 | **Agentes de atención al cliente** (WhatsApp) | n8n · LLM · WhatsApp | `[Operativo]` |
 | **Segundo cerebro de la carrera**: wiki en Obsidian con +170 apuntes, mantenida por un agente de IA | Obsidian · Claude Code · Python · Git | `[En marcha]` |
-| **Servidores de Minecraft con modpacks** | NeoForge · Create · Prism Launcher | `[Hobby]` |
-
 </div>
 
 <br/>
@@ -196,7 +194,6 @@
 | :---: | :--- |
 | 🏋️ | Fuerza e hipertrofia con dieta alta en proteína · récord de **400 kg en prensa** |
 | 🎮 | +400 juegos en Steam: souls-like, survival horror y Final Fantasy · LoL (Top, OTP Sett) · FC 26 Clubes Pro · Pokémon GO |
-| 🧱 | Monto modpacks de Minecraft que mezclan RPG e ingeniería con **Create** |
 | 📚 | Manga y manhwa: JoJo's Bizarre Adventure, Lookism, Doom Breaker |
 | 🎧 | Reguetón y urbano: J Balvin y Bad Bunny |
 | 🧴 | Colecciono perfumes de diseñador y de nicho (de ahí salió Style & Scent Engine) |
